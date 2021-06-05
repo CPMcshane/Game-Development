@@ -5,6 +5,8 @@ I used a tutorial from the panda3d website to create the environment and the fir
 different sizes and ran at different speeds. Right now I was not able to add any of my own models or create the 'game' part
 of the game.
 
+The ability to move the camera is added to the game using the mouse. Left click moves side to side, right click zooms in and out, and the middle mouse button rotates the view.
+
 My game at the moment has no purpose.
 
 I wrote this software to get more experience with programming games and to understand how 3d graphics work.
